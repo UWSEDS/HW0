@@ -9,5 +9,5 @@ Instructions for the homework:
   * Uses `curl` to download the Pronto bike data from `https://s3.amazonaws.com/pronto-data/open_data_year_one.zip` (1pt)
   * Unzip the file with `unzip` (1pt)
   * Uses `head` to show the first few lines of the `2015_trip_data.csv` to the user (1pt)
-  * Describe your process for doing this homework. If you used an AI assist, please tell us that you used it and tell us how you used it. As long as you tell us if and how you used an AI assist, it will not negatively affect your grade on the homework (1pt)
+* Describe your process for doing this homework. If you used an AI assist, please tell us that you used it and tell us how you used it. As long as you tell us if and how you used an AI assist, it will not negatively affect your grade on the homework (1pt)
 * Submit your homework using git/GitHub (1pt)
